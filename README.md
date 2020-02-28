@@ -1,4 +1,4 @@
-# LeBron27/7/7
+# LeBron 27/7/7
 Analysis of LeBron James statistics featuring web scraping and the mutlivariate normal distribution
 
 

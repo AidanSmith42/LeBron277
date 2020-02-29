@@ -2,9 +2,9 @@
 Analysis of LeBron James statistics featuring web scraping and the mutlivariate normal distribution
 
 
-# In his 16 year career (1198 games),  LeBron has averaged 27 points per game, 7 rebounds per game, and 7 assists per game.
+## In his 16 year career (1198 games),  LeBron has averaged 27 points per game, 7 rebounds per game, and 7 assists per game.
 
-# However, he has never had 27 points, 7 rebounds, and 7 assists in the same game.
+## However, he has never had 27 points, 7 rebounds, and 7 assists in the same game.
 
 How unlikely is this?
 
